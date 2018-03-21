@@ -1,5 +1,5 @@
 NOTE: THIS IS A MODIFIED VERSION OF NELPY THAT WAS FORKED AWAY DURING INITIAL DEVELOPMENT AND IS USED FOR https://github.com/shayokdutta/RippleDetectionAnalysis.
-[Nelpy](github.com/nelpy)
+[Nelpy](https://www.github.com/nelpy)
 
 =====
 Nelpy
